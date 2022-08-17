@@ -1,4 +1,2 @@
-## Hola, como te va?
-Agregando texto
-
-Aprendiendo git
+## Aprendiendo git
+Hola desde ITEL
