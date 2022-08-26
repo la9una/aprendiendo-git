@@ -76,12 +76,12 @@ El comando anterior eliminará la rama local  `rama1`  y su contenido.
 ### Eliminando una rama remota
 Sintaxis general: 
 
-	git branch -d <nombre-de-la-rama-a-eliminar>
+	git branch origin --delete <nombre-de-la-rama-a-eliminar>
 
 
 Ejemplo: 
 
-	git branch -d rama1
+	git branch origin --delete rama1
 
 El comando anterior eliminará la rama local  `rama1`  y su contenido.
 
